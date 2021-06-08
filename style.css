@@ -1,0 +1,49 @@
+div {
+    margin-left: 50px;
+}
+h3{
+    display: inline-block;
+    margin-bottom: 0%;
+}
+
+.btn1 {
+    background-color: Transparent;
+    border: none;
+    cursor: pointer;
+    /* position: fixed;
+    top: 15px;
+    left: 540px; */
+    margin: 0px;
+    margin-left: 376px;
+    color: red;
+    font-size: 16px;
+
+}
+
+.btn2 {
+    background-color: Transparent;
+    border: none;
+    cursor: pointer;
+    margin: 0px;
+    margin-left: 350px;
+    /* position: fixed;
+    top: 165px;
+    left: 540px; */
+    color: red;
+    font-size: 16px;
+}
+#firstTable{
+    border: 1px solid rgb(161, 220, 228);
+    border-top: 2px solid rgb(88, 224, 88);
+    width: 450px;
+    background-color: rgb(161, 220, 228);
+    padding-left: 15px;
+}
+
+#secondTable{
+    border: 1px solid rgb(161, 220, 228);
+    border-top: 2px solid rgb(88, 224, 88);
+    width: 450px;
+    background-color: rgb(161, 220, 228);
+    padding-left: 15px;
+}
